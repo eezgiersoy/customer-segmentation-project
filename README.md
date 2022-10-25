@@ -1,1 +1,1 @@
-﻿A project involving segment separation from the data of an online shoe store.
+﻿Segment separation from a dataset of an online shoe store.
